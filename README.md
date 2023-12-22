@@ -16,7 +16,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/shaonmohammad/Task-Manager.git
+    git clone https://github.com/RaselmamunSD/Task-Manager.git
     cd Task_Manager
     ```
 
@@ -49,7 +49,7 @@ SECRET_KEY=django-insecure-tc87*rs!10gua3#bau_a6u+dow&bod^(#^(z6_9tx6=b$hir_6
 API_KEY=dsfkjsdflwkjoie4urledwkjfrelwkjfelka
 DEBUG=True
 DB_NAME=task_manager
-USER=shaon
+USER=Rasel
 PASSWORD=484251
 HOST=localhost
 
